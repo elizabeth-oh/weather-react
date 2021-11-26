@@ -5,7 +5,7 @@ export default function Sourcecode() {
   return (
     <small className="sourceCode">
       <a
-        href="https://github.com/elizabeth-oh/vanilla-weather-app"
+        href="https://github.com/elizabeth-oh/weather-react"
         target="_blank"
         rel="noreferrer"
       >

@@ -1,0 +1,22 @@
+.searchForm {
+    background: #e7d4b5;
+    border-color: #e3cdc1;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+  }
+  
+  .form-control:focus {
+    border-color: #f6e6cb;
+    box-shadow: 0 0 0 0.2rem rgba(246, 230, 203, 0.25);
+  }
+  
+  .searchButton {
+    color: #f6e6cb;
+    background: #a0937d;
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  }
+  
+  .searchButton:hover {
+    background: #e3cdc1;
+  }
+  

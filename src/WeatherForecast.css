@@ -1,0 +1,23 @@
+.dailyForecast {
+    text-align: center;
+    background: #e3cdc1;
+    padding: 3px 3px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+  }
+  
+  .forecastDay {
+    font-weight: bolder;
+  }
+  
+  .forecastLow {
+    opacity: 0.6;
+    padding: 3px;
+    text-align: center;
+  }
+  
+  .forecastLow {
+    padding: 3px;
+    text-align: center;
+  }
+  
